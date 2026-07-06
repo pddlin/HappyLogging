@@ -1,0 +1,34 @@
+{
+  "name": "Loggerithm",
+  "short_name": "Loggerithm",
+  "description": "A cozy lumberjack math game — chop numbered trees, craft sums at the workbench, hit the target.",
+  "id": "/HappyLogging/",
+  "start_url": "/HappyLogging/",
+  "scope": "/HappyLogging/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b140d",
+  "theme_color": "#0b140d",
+  "lang": "zh-TW",
+  "categories": ["games", "education"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
